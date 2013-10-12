@@ -1,0 +1,7 @@
+*/target
+*/.settings
+*/project
+*/.cache
+*/.classpath
+*/.project
+*/build.sbt
